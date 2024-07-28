@@ -38,8 +38,10 @@ A interface gráfica é criada utilizando a biblioteca `tkinter`, com um layout 
 
 ## Capturas de Tela
 
-![Screenshot 1](screenshot_1.png)
-![Screenshot 2](screenshot_2.png)
+![Screenshot 1](https://raw.githubusercontent.com/yanfurlan/jogo_da_velha/main/Screenshot_1.jpg)
+
+
+![Screenshot 2](https://raw.githubusercontent.com/yanfurlan/jogo_da_velha/main/Screenshot_2.jpg))
 
 ## Licença
 
