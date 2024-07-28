@@ -45,6 +45,3 @@ A interface gráfica é criada utilizando a biblioteca `tkinter`, com um layout 
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
-## Contato
-
-Para mais informações ou dúvidas, entre em contato com [seu-email@example.com](mailto:seu-email@example.com).
